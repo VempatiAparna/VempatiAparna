@@ -61,7 +61,7 @@
 ## 💬 Let’s Connect
 
 I’m actively seeking full-time opportunities and love chatting about back-end systems, API design, and cost optimization in the cloud.  
-Feel free to drop me a line at aparna@youremail.com or connect on LinkedIn!
+Feel free to drop me a line at aparna.vempati33@gmail.com or connect on LinkedIn!
 
 ---
 
