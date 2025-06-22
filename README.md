@@ -51,7 +51,7 @@
 
 ## 🏆 Key Achievements
 
-- **Led** a team of 3 interns to build backend APIs in one week, completing 84 % of functionality for an e-commerce assignment.  
+- **Led** a team of 3 to build backend APIs in one week, completing 84 % of functionality for an e-commerce assignment.  
 - **Migrated** a large-scale monolithic e-commerce system to Spring Boot microservices, improving modularity and scalability.  
 - **Achieved** 90 % JUnit test coverage and used Log4j to debug production issues effectively.  
 - **Developed** and maintained REST APIs for user auth, payments, cart, and order processing for clients like Macy’s and Ulta.  
